@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqbal</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate Backend Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [Wallet API](https://github.com/iqbal-13/wallet-api)
 
