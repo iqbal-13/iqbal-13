@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iqbal</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Wallet API](https://github.com/iqbal-13/wallet-api)
-
-- 🌱 I’m currently learning **Java, Spring Boot, JavaScript, PostgreSQL**
+- 🌱 I’m currently learning **Java, Spring Boot, Go, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iqbal-13](https://github.com/iqbal-13)
 
